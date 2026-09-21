@@ -9,3 +9,7 @@ propuestas/
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# Atajos locales para abrir la demo (no van al repo publico)
+*.url
+QR-demo-*.png

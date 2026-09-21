@@ -100,6 +100,7 @@ para Google (`Bakery`) y vista previa al compartir el enlace.
 
 La demo tiene la etiqueta `noindex` para que Google no la muestre en las búsquedas y no
 se confunda con el sitio oficial. Al publicarla en el dominio de El Buen Gusto hay que
-quitar esa etiqueta de `web/index.html` y borrar `web/robots.txt`.
+quitar esa etiqueta de `web/index.html`, borrar `web/robots.txt` y cambiar `og:image`,
+`og:url` y la `image` del bloque JSON-LD por las URLs del dominio definitivo.
 
 Contacto: CreaX · [completar correo y celular]

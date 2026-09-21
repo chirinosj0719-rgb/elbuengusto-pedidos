@@ -1,0 +1,3 @@
+# Demo privada de CreaX. Borrar este archivo al publicar en el dominio definitivo.
+User-agent: *
+Disallow: /

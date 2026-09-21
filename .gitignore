@@ -1,0 +1,11 @@
+# Cartas originales del cliente (material de trabajo, no va al repo público)
+*.pdf
+
+# Documentos internos de CreaX, si alguno termina aquí por error
+CreaX/
+propuestas/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
